@@ -1,7 +1,7 @@
 
 <table class="table table-hover table-striped">
-    <thead class="table-dark">
-        <tr>
+    <thead>
+        <tr class="table-dark">
             <th>Nome</th>
             <th>Email</th>
             <th>Telefone</th>
