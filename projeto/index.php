@@ -41,7 +41,7 @@
                     '/relatorio' => relatorio(),
                     '/excluir' => excluir(),
                     '/editar' => editar(),
-                    default => admim(),
+                    default => erro404(),
                 }
 
                 ?>
