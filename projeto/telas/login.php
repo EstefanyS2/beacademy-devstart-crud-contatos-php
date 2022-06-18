@@ -1,9 +1,12 @@
 <h1>Login</h1>
-<hr>
-   <input class="form-control mb-3" type="text" placeholder="Email">
-   
-   <input class="form-control mb-3" type="password" placeholder="Senha">
 
-   <button class="btn btn-primary">Enviar</button>
+<form>
+   <input class="form-control" type="text" name="email" placeholder="Email">
+   
+   <input class="form-control" type="password" name="senha" placeholder="Senha">
+
+   <input class="form-control" type="password" name="confirme sua senha" placeholder="Confirme sua senha">
+   <button class="btn btn-primary mt-3">Enviar</button>
 </form>
 </div>
+
